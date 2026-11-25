@@ -6,9 +6,11 @@ Un outil en français pour construire le cahier des charges d’un projet d’é
 
 Ouvrir `index.html` dans un navigateur, ou consulter le site publié avec GitHub Pages.
 
-- 16 thèmes, préférences et exigences indispensables.
+- 18 thèmes, dont l’accessibilité et la plateforme pédagogique, préférences et exigences indispensables.
 - Synthèse imprimable et indices d’adéquation expliqués.
 - Fiches produits bento et symboles SVG intégrés.
+- Page de 14 fonctionnalités communes utiles à l’enseignement.
+- Comparaison des deux pistes, points d’appui et compromis explicites.
 - Aucun compte requis ; les réponses restent en mémoire dans l’onglet et disparaissent au rechargement.
 - Les images produits sont chargées depuis Apple et nécessitent Internet.
 
